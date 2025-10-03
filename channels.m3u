@@ -10,7 +10,7 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Documentary",National Geographic Wild
 https://tvpass.org/live/NationalGeographicWildEast/hd
 #EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
-https://fl25.moveonjoy.com/National_Geographic/index.m3u8
+https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 tvg-name="History Channel" group-title="Documentary",History Channel
 https://fl25.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-name="Disney Jr" group-title="Kids",Disney Jr
